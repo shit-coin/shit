@@ -1,36 +1,5 @@
 ShitCoin
 
-Twitter:
-https://twitter.com/shitcoin
-
-TRIBUTE COIN TO POKEMONGO
-FREE AIRDROP + FREE MINING
-PROMOTING POKEMON WORLD AS FAN AND SUPPORTER
-
-RPCPORT: 22086
-PORT: 22087
-Maturity: 20 Blocks
-PoS: 8% Yearly @ block 50000
-Ticker: SHIT
-
-Supply: 33860000 Millions SHIT (40% airdrop approx + 1,4% premine for promotion and bounties)
-MIN STAKE AGE: 2 Hours
-MAX STAKE AGE: Unlimited
-
-Daily Blocks approx: 2880
-2880 * 120 days = 345600 Block Approx
-4 Month PoW
-
-SHITCOIN IS PRO BTC CLASSIC FORK 2MB
-
-Blocks: 0-20: 700000 SHIT
-Blocks: 20-120: 0 SHIT
-Blocks: 120-86400: 100 SHIT
-Blocks: 86400-172800: 60 SHIT
-Blocks: 172800-259200: 40 SHIT
-Blocks: 259200-345600: 30 POK
-
-
 
 
 Development process
